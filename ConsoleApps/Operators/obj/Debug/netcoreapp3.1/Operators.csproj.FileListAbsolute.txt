@@ -1,0 +1,12 @@
+E:\DotNet\ConsoleApps\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+E:\DotNet\ConsoleApps\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+E:\DotNet\ConsoleApps\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+E:\DotNet\ConsoleApps\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+E:\DotNet\ConsoleApps\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+E:\DotNet\ConsoleApps\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+E:\DotNet\ConsoleApps\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+E:\DotNet\ConsoleApps\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+E:\DotNet\ConsoleApps\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleApps\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+E:\DotNet\ConsoleApps\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+E:\DotNet\ConsoleApps\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

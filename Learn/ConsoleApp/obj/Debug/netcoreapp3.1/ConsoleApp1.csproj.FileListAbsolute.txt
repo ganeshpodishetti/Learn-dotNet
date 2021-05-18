@@ -1,0 +1,13 @@
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+E:\DotNet\Learn\ConsoleApp\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\DotNet\ConsoleApps\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+E:\DotNet\ConsoleApps\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+E:\DotNet\ConsoleApps\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+E:\DotNet\ConsoleApps\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+E:\DotNet\ConsoleApps\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+E:\DotNet\ConsoleApps\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csprojAssemblyReference.cache
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+E:\DotNet\ConsoleApps\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache

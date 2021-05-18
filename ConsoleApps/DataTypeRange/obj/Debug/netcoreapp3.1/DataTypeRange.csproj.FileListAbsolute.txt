@@ -1,0 +1,12 @@
+E:\DotNet\ConsoleApps\DataTypeRange\bin\Debug\netcoreapp3.1\DataTypeRange.exe
+E:\DotNet\ConsoleApps\DataTypeRange\bin\Debug\netcoreapp3.1\DataTypeRange.deps.json
+E:\DotNet\ConsoleApps\DataTypeRange\bin\Debug\netcoreapp3.1\DataTypeRange.runtimeconfig.json
+E:\DotNet\ConsoleApps\DataTypeRange\bin\Debug\netcoreapp3.1\DataTypeRange.runtimeconfig.dev.json
+E:\DotNet\ConsoleApps\DataTypeRange\bin\Debug\netcoreapp3.1\DataTypeRange.dll
+E:\DotNet\ConsoleApps\DataTypeRange\bin\Debug\netcoreapp3.1\DataTypeRange.pdb
+E:\DotNet\ConsoleApps\DataTypeRange\obj\Debug\netcoreapp3.1\DataTypeRange.AssemblyInfoInputs.cache
+E:\DotNet\ConsoleApps\DataTypeRange\obj\Debug\netcoreapp3.1\DataTypeRange.AssemblyInfo.cs
+E:\DotNet\ConsoleApps\DataTypeRange\obj\Debug\netcoreapp3.1\DataTypeRange.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleApps\DataTypeRange\obj\Debug\netcoreapp3.1\DataTypeRange.dll
+E:\DotNet\ConsoleApps\DataTypeRange\obj\Debug\netcoreapp3.1\DataTypeRange.pdb
+E:\DotNet\ConsoleApps\DataTypeRange\obj\Debug\netcoreapp3.1\DataTypeRange.genruntimeconfig.cache
