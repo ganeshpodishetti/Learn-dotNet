@@ -1,0 +1,12 @@
+E:\DotNet\ConsoleApps\8. Enum\bin\Debug\netcoreapp3.1\8. Enum.exe
+E:\DotNet\ConsoleApps\8. Enum\bin\Debug\netcoreapp3.1\8. Enum.deps.json
+E:\DotNet\ConsoleApps\8. Enum\bin\Debug\netcoreapp3.1\8. Enum.runtimeconfig.json
+E:\DotNet\ConsoleApps\8. Enum\bin\Debug\netcoreapp3.1\8. Enum.runtimeconfig.dev.json
+E:\DotNet\ConsoleApps\8. Enum\bin\Debug\netcoreapp3.1\8. Enum.dll
+E:\DotNet\ConsoleApps\8. Enum\bin\Debug\netcoreapp3.1\8. Enum.pdb
+E:\DotNet\ConsoleApps\8. Enum\obj\Debug\netcoreapp3.1\8. Enum.AssemblyInfoInputs.cache
+E:\DotNet\ConsoleApps\8. Enum\obj\Debug\netcoreapp3.1\8. Enum.AssemblyInfo.cs
+E:\DotNet\ConsoleApps\8. Enum\obj\Debug\netcoreapp3.1\8. Enum.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleApps\8. Enum\obj\Debug\netcoreapp3.1\8. Enum.dll
+E:\DotNet\ConsoleApps\8. Enum\obj\Debug\netcoreapp3.1\8. Enum.pdb
+E:\DotNet\ConsoleApps\8. Enum\obj\Debug\netcoreapp3.1\8. Enum.genruntimeconfig.cache

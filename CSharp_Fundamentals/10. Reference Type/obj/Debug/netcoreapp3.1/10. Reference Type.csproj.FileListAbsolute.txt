@@ -1,0 +1,12 @@
+E:\DotNet\ConsoleApps\10. Reference Type\bin\Debug\netcoreapp3.1\10. Reference Type.exe
+E:\DotNet\ConsoleApps\10. Reference Type\bin\Debug\netcoreapp3.1\10. Reference Type.deps.json
+E:\DotNet\ConsoleApps\10. Reference Type\bin\Debug\netcoreapp3.1\10. Reference Type.runtimeconfig.json
+E:\DotNet\ConsoleApps\10. Reference Type\bin\Debug\netcoreapp3.1\10. Reference Type.runtimeconfig.dev.json
+E:\DotNet\ConsoleApps\10. Reference Type\bin\Debug\netcoreapp3.1\10. Reference Type.dll
+E:\DotNet\ConsoleApps\10. Reference Type\bin\Debug\netcoreapp3.1\10. Reference Type.pdb
+E:\DotNet\ConsoleApps\10. Reference Type\obj\Debug\netcoreapp3.1\10. Reference Type.AssemblyInfoInputs.cache
+E:\DotNet\ConsoleApps\10. Reference Type\obj\Debug\netcoreapp3.1\10. Reference Type.AssemblyInfo.cs
+E:\DotNet\ConsoleApps\10. Reference Type\obj\Debug\netcoreapp3.1\10. Reference Type.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleApps\10. Reference Type\obj\Debug\netcoreapp3.1\10. Reference Type.dll
+E:\DotNet\ConsoleApps\10. Reference Type\obj\Debug\netcoreapp3.1\10. Reference Type.pdb
+E:\DotNet\ConsoleApps\10. Reference Type\obj\Debug\netcoreapp3.1\10. Reference Type.genruntimeconfig.cache

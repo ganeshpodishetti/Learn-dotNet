@@ -1,0 +1,12 @@
+E:\DotNet\ConsoleApps\9. Value Type\bin\Debug\netcoreapp3.1\9. Value Type.exe
+E:\DotNet\ConsoleApps\9. Value Type\bin\Debug\netcoreapp3.1\9. Value Type.deps.json
+E:\DotNet\ConsoleApps\9. Value Type\bin\Debug\netcoreapp3.1\9. Value Type.runtimeconfig.json
+E:\DotNet\ConsoleApps\9. Value Type\bin\Debug\netcoreapp3.1\9. Value Type.runtimeconfig.dev.json
+E:\DotNet\ConsoleApps\9. Value Type\bin\Debug\netcoreapp3.1\9. Value Type.dll
+E:\DotNet\ConsoleApps\9. Value Type\bin\Debug\netcoreapp3.1\9. Value Type.pdb
+E:\DotNet\ConsoleApps\9. Value Type\obj\Debug\netcoreapp3.1\9. Value Type.AssemblyInfoInputs.cache
+E:\DotNet\ConsoleApps\9. Value Type\obj\Debug\netcoreapp3.1\9. Value Type.AssemblyInfo.cs
+E:\DotNet\ConsoleApps\9. Value Type\obj\Debug\netcoreapp3.1\9. Value Type.csproj.CoreCompileInputs.cache
+E:\DotNet\ConsoleApps\9. Value Type\obj\Debug\netcoreapp3.1\9. Value Type.dll
+E:\DotNet\ConsoleApps\9. Value Type\obj\Debug\netcoreapp3.1\9. Value Type.pdb
+E:\DotNet\ConsoleApps\9. Value Type\obj\Debug\netcoreapp3.1\9. Value Type.genruntimeconfig.cache
