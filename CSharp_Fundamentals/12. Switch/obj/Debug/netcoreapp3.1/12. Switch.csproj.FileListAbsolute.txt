@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\12. Switch\bin\Debug\netcoreapp3.1\12. Switch.exe
+E:\DotNet\CSharp_Fundamentals\12. Switch\bin\Debug\netcoreapp3.1\12. Switch.deps.json
+E:\DotNet\CSharp_Fundamentals\12. Switch\bin\Debug\netcoreapp3.1\12. Switch.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\12. Switch\bin\Debug\netcoreapp3.1\12. Switch.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\12. Switch\bin\Debug\netcoreapp3.1\12. Switch.dll
+E:\DotNet\CSharp_Fundamentals\12. Switch\bin\Debug\netcoreapp3.1\12. Switch.pdb
+E:\DotNet\CSharp_Fundamentals\12. Switch\obj\Debug\netcoreapp3.1\12. Switch.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\12. Switch\obj\Debug\netcoreapp3.1\12. Switch.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\12. Switch\obj\Debug\netcoreapp3.1\12. Switch.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\12. Switch\obj\Debug\netcoreapp3.1\12. Switch.dll
+E:\DotNet\CSharp_Fundamentals\12. Switch\obj\Debug\netcoreapp3.1\12. Switch.pdb
+E:\DotNet\CSharp_Fundamentals\12. Switch\obj\Debug\netcoreapp3.1\12. Switch.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\DotNet\CSharp_Fundamentals\11. If-Else\bin\Debug\netcoreapp3.1\11. If-Else.exe
+E:\DotNet\CSharp_Fundamentals\11. If-Else\bin\Debug\netcoreapp3.1\11. If-Else.deps.json
+E:\DotNet\CSharp_Fundamentals\11. If-Else\bin\Debug\netcoreapp3.1\11. If-Else.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\11. If-Else\bin\Debug\netcoreapp3.1\11. If-Else.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\11. If-Else\bin\Debug\netcoreapp3.1\11. If-Else.dll
+E:\DotNet\CSharp_Fundamentals\11. If-Else\bin\Debug\netcoreapp3.1\11. If-Else.pdb
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.dll
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.pdb
+E:\DotNet\CSharp_Fundamentals\11. If-Else\obj\Debug\netcoreapp3.1\11. If-Else.genruntimeconfig.cache

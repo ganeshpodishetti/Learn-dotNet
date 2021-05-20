@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\14. While loop\bin\Debug\netcoreapp3.1\14. While loop.exe
+E:\DotNet\CSharp_Fundamentals\14. While loop\bin\Debug\netcoreapp3.1\14. While loop.deps.json
+E:\DotNet\CSharp_Fundamentals\14. While loop\bin\Debug\netcoreapp3.1\14. While loop.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\14. While loop\bin\Debug\netcoreapp3.1\14. While loop.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\14. While loop\bin\Debug\netcoreapp3.1\14. While loop.dll
+E:\DotNet\CSharp_Fundamentals\14. While loop\bin\Debug\netcoreapp3.1\14. While loop.pdb
+E:\DotNet\CSharp_Fundamentals\14. While loop\obj\Debug\netcoreapp3.1\14. While loop.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\14. While loop\obj\Debug\netcoreapp3.1\14. While loop.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\14. While loop\obj\Debug\netcoreapp3.1\14. While loop.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\14. While loop\obj\Debug\netcoreapp3.1\14. While loop.dll
+E:\DotNet\CSharp_Fundamentals\14. While loop\obj\Debug\netcoreapp3.1\14. While loop.pdb
+E:\DotNet\CSharp_Fundamentals\14. While loop\obj\Debug\netcoreapp3.1\14. While loop.genruntimeconfig.cache

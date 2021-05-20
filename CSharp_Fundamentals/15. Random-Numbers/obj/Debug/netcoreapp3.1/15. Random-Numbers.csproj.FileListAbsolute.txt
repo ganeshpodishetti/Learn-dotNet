@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\bin\Debug\netcoreapp3.1\15. Random-Numbers.exe
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\bin\Debug\netcoreapp3.1\15. Random-Numbers.deps.json
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\bin\Debug\netcoreapp3.1\15. Random-Numbers.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\bin\Debug\netcoreapp3.1\15. Random-Numbers.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\bin\Debug\netcoreapp3.1\15. Random-Numbers.dll
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\bin\Debug\netcoreapp3.1\15. Random-Numbers.pdb
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\obj\Debug\netcoreapp3.1\15. Random-Numbers.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\obj\Debug\netcoreapp3.1\15. Random-Numbers.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\obj\Debug\netcoreapp3.1\15. Random-Numbers.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\obj\Debug\netcoreapp3.1\15. Random-Numbers.dll
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\obj\Debug\netcoreapp3.1\15. Random-Numbers.pdb
+E:\DotNet\CSharp_Fundamentals\15. Random-Numbers\obj\Debug\netcoreapp3.1\15. Random-Numbers.genruntimeconfig.cache

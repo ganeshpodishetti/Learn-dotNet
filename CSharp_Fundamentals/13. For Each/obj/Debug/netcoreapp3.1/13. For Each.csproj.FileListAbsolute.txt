@@ -1,0 +1,13 @@
+E:\DotNet\CSharp_Fundamentals\13. For Each\bin\Debug\netcoreapp3.1\13. For Each.exe
+E:\DotNet\CSharp_Fundamentals\13. For Each\bin\Debug\netcoreapp3.1\13. For Each.deps.json
+E:\DotNet\CSharp_Fundamentals\13. For Each\bin\Debug\netcoreapp3.1\13. For Each.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\13. For Each\bin\Debug\netcoreapp3.1\13. For Each.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\13. For Each\bin\Debug\netcoreapp3.1\13. For Each.dll
+E:\DotNet\CSharp_Fundamentals\13. For Each\bin\Debug\netcoreapp3.1\13. For Each.pdb
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.dll
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.pdb
+E:\DotNet\CSharp_Fundamentals\13. For Each\obj\Debug\netcoreapp3.1\13. For Each.genruntimeconfig.cache

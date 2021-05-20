@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\13. For Loop\bin\Debug\netcoreapp3.1\13. For Loop.exe
+E:\DotNet\CSharp_Fundamentals\13. For Loop\bin\Debug\netcoreapp3.1\13. For Loop.deps.json
+E:\DotNet\CSharp_Fundamentals\13. For Loop\bin\Debug\netcoreapp3.1\13. For Loop.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\13. For Loop\bin\Debug\netcoreapp3.1\13. For Loop.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\13. For Loop\bin\Debug\netcoreapp3.1\13. For Loop.dll
+E:\DotNet\CSharp_Fundamentals\13. For Loop\bin\Debug\netcoreapp3.1\13. For Loop.pdb
+E:\DotNet\CSharp_Fundamentals\13. For Loop\obj\Debug\netcoreapp3.1\13. For Loop.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\13. For Loop\obj\Debug\netcoreapp3.1\13. For Loop.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\13. For Loop\obj\Debug\netcoreapp3.1\13. For Loop.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\13. For Loop\obj\Debug\netcoreapp3.1\13. For Loop.dll
+E:\DotNet\CSharp_Fundamentals\13. For Loop\obj\Debug\netcoreapp3.1\13. For Loop.pdb
+E:\DotNet\CSharp_Fundamentals\13. For Loop\obj\Debug\netcoreapp3.1\13. For Loop.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\16. List\bin\Debug\netcoreapp3.1\16. List.exe
+E:\DotNet\CSharp_Fundamentals\16. List\bin\Debug\netcoreapp3.1\16. List.deps.json
+E:\DotNet\CSharp_Fundamentals\16. List\bin\Debug\netcoreapp3.1\16. List.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\16. List\bin\Debug\netcoreapp3.1\16. List.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\16. List\bin\Debug\netcoreapp3.1\16. List.dll
+E:\DotNet\CSharp_Fundamentals\16. List\bin\Debug\netcoreapp3.1\16. List.pdb
+E:\DotNet\CSharp_Fundamentals\16. List\obj\Debug\netcoreapp3.1\16. List.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\16. List\obj\Debug\netcoreapp3.1\16. List.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\16. List\obj\Debug\netcoreapp3.1\16. List.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\16. List\obj\Debug\netcoreapp3.1\16. List.dll
+E:\DotNet\CSharp_Fundamentals\16. List\obj\Debug\netcoreapp3.1\16. List.pdb
+E:\DotNet\CSharp_Fundamentals\16. List\obj\Debug\netcoreapp3.1\16. List.genruntimeconfig.cache
