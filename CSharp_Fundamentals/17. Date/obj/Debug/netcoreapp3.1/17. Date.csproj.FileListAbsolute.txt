@@ -1,0 +1,13 @@
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\17. Date\bin\Debug\netcoreapp3.1\17. Date.exe
+E:\DotNet\CSharp_Fundamentals\17. Date\bin\Debug\netcoreapp3.1\17. Date.deps.json
+E:\DotNet\CSharp_Fundamentals\17. Date\bin\Debug\netcoreapp3.1\17. Date.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\17. Date\bin\Debug\netcoreapp3.1\17. Date.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\17. Date\bin\Debug\netcoreapp3.1\17. Date.dll
+E:\DotNet\CSharp_Fundamentals\17. Date\bin\Debug\netcoreapp3.1\17. Date.pdb
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.dll
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.pdb
+E:\DotNet\CSharp_Fundamentals\17. Date\obj\Debug\netcoreapp3.1\17. Date.genruntimeconfig.cache
