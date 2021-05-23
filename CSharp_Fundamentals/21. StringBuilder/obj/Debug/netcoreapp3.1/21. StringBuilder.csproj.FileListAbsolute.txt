@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\bin\Debug\netcoreapp3.1\21. StringBuilder.exe
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\bin\Debug\netcoreapp3.1\21. StringBuilder.deps.json
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\bin\Debug\netcoreapp3.1\21. StringBuilder.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\bin\Debug\netcoreapp3.1\21. StringBuilder.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\bin\Debug\netcoreapp3.1\21. StringBuilder.dll
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\bin\Debug\netcoreapp3.1\21. StringBuilder.pdb
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\obj\Debug\netcoreapp3.1\21. StringBuilder.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\obj\Debug\netcoreapp3.1\21. StringBuilder.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\obj\Debug\netcoreapp3.1\21. StringBuilder.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\obj\Debug\netcoreapp3.1\21. StringBuilder.dll
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\obj\Debug\netcoreapp3.1\21. StringBuilder.pdb
+E:\DotNet\CSharp_Fundamentals\21. StringBuilder\obj\Debug\netcoreapp3.1\21. StringBuilder.genruntimeconfig.cache

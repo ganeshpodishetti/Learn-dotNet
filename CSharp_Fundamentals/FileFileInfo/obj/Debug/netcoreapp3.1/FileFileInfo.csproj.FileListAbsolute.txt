@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\bin\Debug\netcoreapp3.1\FileFileInfo.exe
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\bin\Debug\netcoreapp3.1\FileFileInfo.deps.json
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\bin\Debug\netcoreapp3.1\FileFileInfo.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\bin\Debug\netcoreapp3.1\FileFileInfo.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\bin\Debug\netcoreapp3.1\FileFileInfo.dll
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\bin\Debug\netcoreapp3.1\FileFileInfo.pdb
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\obj\Debug\netcoreapp3.1\FileFileInfo.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\obj\Debug\netcoreapp3.1\FileFileInfo.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\obj\Debug\netcoreapp3.1\FileFileInfo.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\obj\Debug\netcoreapp3.1\FileFileInfo.dll
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\obj\Debug\netcoreapp3.1\FileFileInfo.pdb
+E:\DotNet\CSharp_Fundamentals\FileFileInfo\obj\Debug\netcoreapp3.1\FileFileInfo.genruntimeconfig.cache

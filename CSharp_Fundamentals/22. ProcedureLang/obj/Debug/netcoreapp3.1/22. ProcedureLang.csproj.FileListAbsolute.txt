@@ -1,0 +1,13 @@
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\bin\Debug\netcoreapp3.1\22. ProcedureLang.exe
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\bin\Debug\netcoreapp3.1\22. ProcedureLang.deps.json
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\bin\Debug\netcoreapp3.1\22. ProcedureLang.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\bin\Debug\netcoreapp3.1\22. ProcedureLang.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\bin\Debug\netcoreapp3.1\22. ProcedureLang.dll
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\bin\Debug\netcoreapp3.1\22. ProcedureLang.pdb
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.dll
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.pdb
+E:\DotNet\CSharp_Fundamentals\22. ProcedureLang\obj\Debug\netcoreapp3.1\22. ProcedureLang.genruntimeconfig.cache

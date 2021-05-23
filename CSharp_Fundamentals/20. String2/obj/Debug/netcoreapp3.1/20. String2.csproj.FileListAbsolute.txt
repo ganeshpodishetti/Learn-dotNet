@@ -1,0 +1,13 @@
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\20. String2\bin\Debug\netcoreapp3.1\20. String2.exe
+E:\DotNet\CSharp_Fundamentals\20. String2\bin\Debug\netcoreapp3.1\20. String2.deps.json
+E:\DotNet\CSharp_Fundamentals\20. String2\bin\Debug\netcoreapp3.1\20. String2.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\20. String2\bin\Debug\netcoreapp3.1\20. String2.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\20. String2\bin\Debug\netcoreapp3.1\20. String2.dll
+E:\DotNet\CSharp_Fundamentals\20. String2\bin\Debug\netcoreapp3.1\20. String2.pdb
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.dll
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.pdb
+E:\DotNet\CSharp_Fundamentals\20. String2\obj\Debug\netcoreapp3.1\20. String2.genruntimeconfig.cache
