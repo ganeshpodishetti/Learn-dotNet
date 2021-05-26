@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.exe
+E:\DotNet\CSharp_Fundamentals\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.deps.json
+E:\DotNet\CSharp_Fundamentals\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.dll
+E:\DotNet\CSharp_Fundamentals\Concurrent\bin\Debug\netcoreapp3.1\Concurrent.pdb
+E:\DotNet\CSharp_Fundamentals\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.dll
+E:\DotNet\CSharp_Fundamentals\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.pdb
+E:\DotNet\CSharp_Fundamentals\Concurrent\obj\Debug\netcoreapp3.1\Concurrent.genruntimeconfig.cache

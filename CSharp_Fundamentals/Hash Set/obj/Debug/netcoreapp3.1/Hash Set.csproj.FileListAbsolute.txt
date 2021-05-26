@@ -1,0 +1,13 @@
+E:\DotNet\CSharp_Fundamentals\Hash Set\bin\Debug\netcoreapp3.1\Hash Set.exe
+E:\DotNet\CSharp_Fundamentals\Hash Set\bin\Debug\netcoreapp3.1\Hash Set.deps.json
+E:\DotNet\CSharp_Fundamentals\Hash Set\bin\Debug\netcoreapp3.1\Hash Set.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\Hash Set\bin\Debug\netcoreapp3.1\Hash Set.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\Hash Set\bin\Debug\netcoreapp3.1\Hash Set.dll
+E:\DotNet\CSharp_Fundamentals\Hash Set\bin\Debug\netcoreapp3.1\Hash Set.pdb
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.dll
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.pdb
+E:\DotNet\CSharp_Fundamentals\Hash Set\obj\Debug\netcoreapp3.1\Hash Set.genruntimeconfig.cache

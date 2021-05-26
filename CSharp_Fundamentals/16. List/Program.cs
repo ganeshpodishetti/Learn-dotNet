@@ -25,8 +25,6 @@ namespace _16._List
             foreach (var i in n)
                 Console.Write(i + " ");
 
-
-
         }
     }
 }

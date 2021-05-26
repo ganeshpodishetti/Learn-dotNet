@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\BitArray\bin\Debug\netcoreapp3.1\BitArray.exe
+E:\DotNet\CSharp_Fundamentals\BitArray\bin\Debug\netcoreapp3.1\BitArray.deps.json
+E:\DotNet\CSharp_Fundamentals\BitArray\bin\Debug\netcoreapp3.1\BitArray.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\BitArray\bin\Debug\netcoreapp3.1\BitArray.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\BitArray\bin\Debug\netcoreapp3.1\BitArray.dll
+E:\DotNet\CSharp_Fundamentals\BitArray\bin\Debug\netcoreapp3.1\BitArray.pdb
+E:\DotNet\CSharp_Fundamentals\BitArray\obj\Debug\netcoreapp3.1\BitArray.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\BitArray\obj\Debug\netcoreapp3.1\BitArray.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\BitArray\obj\Debug\netcoreapp3.1\BitArray.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\BitArray\obj\Debug\netcoreapp3.1\BitArray.dll
+E:\DotNet\CSharp_Fundamentals\BitArray\obj\Debug\netcoreapp3.1\BitArray.pdb
+E:\DotNet\CSharp_Fundamentals\BitArray\obj\Debug\netcoreapp3.1\BitArray.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.exe
+E:\DotNet\CSharp_Fundamentals\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.deps.json
+E:\DotNet\CSharp_Fundamentals\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.dll
+E:\DotNet\CSharp_Fundamentals\ArrayList\bin\Debug\netcoreapp3.1\ArrayList.pdb
+E:\DotNet\CSharp_Fundamentals\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.dll
+E:\DotNet\CSharp_Fundamentals\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.pdb
+E:\DotNet\CSharp_Fundamentals\ArrayList\obj\Debug\netcoreapp3.1\ArrayList.genruntimeconfig.cache

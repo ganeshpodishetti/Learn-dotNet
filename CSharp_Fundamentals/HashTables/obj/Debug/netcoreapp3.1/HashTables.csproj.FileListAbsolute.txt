@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\HashTables\bin\Debug\netcoreapp3.1\HashTables.exe
+E:\DotNet\CSharp_Fundamentals\HashTables\bin\Debug\netcoreapp3.1\HashTables.deps.json
+E:\DotNet\CSharp_Fundamentals\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\HashTables\bin\Debug\netcoreapp3.1\HashTables.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\HashTables\bin\Debug\netcoreapp3.1\HashTables.dll
+E:\DotNet\CSharp_Fundamentals\HashTables\bin\Debug\netcoreapp3.1\HashTables.pdb
+E:\DotNet\CSharp_Fundamentals\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\HashTables\obj\Debug\netcoreapp3.1\HashTables.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\HashTables\obj\Debug\netcoreapp3.1\HashTables.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\HashTables\obj\Debug\netcoreapp3.1\HashTables.dll
+E:\DotNet\CSharp_Fundamentals\HashTables\obj\Debug\netcoreapp3.1\HashTables.pdb
+E:\DotNet\CSharp_Fundamentals\HashTables\obj\Debug\netcoreapp3.1\HashTables.genruntimeconfig.cache

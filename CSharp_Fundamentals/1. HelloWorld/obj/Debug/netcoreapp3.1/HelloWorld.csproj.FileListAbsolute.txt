@@ -11,3 +11,16 @@ E:\DotNet\ConsoleApps\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreC
 E:\DotNet\ConsoleApps\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
 E:\DotNet\ConsoleApps\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
 E:\DotNet\ConsoleApps\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+E:\DotNet\CSharp_Fundamentals\1. HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

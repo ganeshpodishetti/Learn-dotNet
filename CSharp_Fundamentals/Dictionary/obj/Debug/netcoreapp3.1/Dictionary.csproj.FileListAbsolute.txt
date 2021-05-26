@@ -1,0 +1,12 @@
+E:\DotNet\CSharp_Fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+E:\DotNet\CSharp_Fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+E:\DotNet\CSharp_Fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+E:\DotNet\CSharp_Fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+E:\DotNet\CSharp_Fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+E:\DotNet\CSharp_Fundamentals\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+E:\DotNet\CSharp_Fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+E:\DotNet\CSharp_Fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+E:\DotNet\CSharp_Fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+E:\DotNet\CSharp_Fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+E:\DotNet\CSharp_Fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+E:\DotNet\CSharp_Fundamentals\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
