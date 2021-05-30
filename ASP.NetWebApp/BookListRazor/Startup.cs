@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 namespace BookListRazor
 {
     [Route("api/Book")]
-    [ApiController]
+    //[ApiController]
 
     public class Startup
     {
